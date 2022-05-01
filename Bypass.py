@@ -1,2 +1,2 @@
 import BYPASS
-BYPASS.menu()
+BYPASS.main()
